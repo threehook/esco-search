@@ -1,0 +1,20 @@
+# noinspection GraphQLTypeRedefinition
+
+type BeroepenMatch {
+  code: String!
+  beroep: String!
+}
+
+type Query {
+  # client asks for beroepen based on a free format search request string
+  searchBeroepenViaPrompt(prompt: SearchBeroepenViaPromptInput!): SearchBeroepenViaPromptPayload
+}
+
+input SearchBeroepenViaPromptInput {
+  searchRequest: String!
+}
+
+type SearchBeroepenViaPromptPayload {
+  matches: [BeroepenMatch]
+}
+

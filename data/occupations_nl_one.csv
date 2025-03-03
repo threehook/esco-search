@@ -1,0 +1,17 @@
+conceptType,conceptUri,iscoGroup,preferredLabel,altLabels,hiddenLabels,status,modifiedDate,regulatedProfessionNote,scopeNote,definition,inScheme,description,code
+Occupation,http://data.europa.eu/esco/occupation/02e94cd6-8e6d-4e9b-b695-edb460c70528,7316,aardewerkschilder,"schilder (aardewerk)
+tegelschilder
+schilderes op aardewerk
+aardewerkschilderes
+schilder op keramiek
+schilderes (aardewerk)
+keramiekschilder
+decorateur aardewerk
+schilderes (keramiek)
+schilderes op keramiek
+keramiekschilderes
+schilder op aardewerk
+tegelschilderes
+schilder (keramiek)","ceramiekschilder
+schilder (ceramiek)",released,2024-01-26T15:04:32.342Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Aardewerkschilders ontwerpen en creëren visuele kunst op keramische oppervlakken en voorwerpen, zoals tegels, beeldhouwwerk, vaatwerk en aardewerk. Zij gebruiken verschillende technieken voor het vervaardigen van decoratieve illustraties, variërend van sjabloneren tot tekenen met de vrije hand.",7316.1.1

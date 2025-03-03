@@ -1,0 +1,823 @@
+conceptType,conceptUri,iscoGroup,preferredLabel,altLabels,hiddenLabels,status,modifiedDate,regulatedProfessionNote,scopeNote,definition,inScheme,description,code
+Occupation,http://data.europa.eu/esco/occupation/00030d09-2b3a-4efd-87cc-c4ea39d27c34,2654,inspiciënt,"toneelmeester
+inspiciënte
+technisch directeur
+chef-inspiciënt",,released,2024-01-25T11:28:50.295Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Technische directeuren realiseren zich binnen technische beperkingen de artistieke visies van de makers. Zij coördineren de activiteiten van verschillende productie-eenheden, zoals de plaats van het toneel, de beveiliging, de geluidsverlichting en de make-up. Zij passen het prototype aan en bestuderen de haalbaarheid, de uitvoering, de werking en de technische controle van het artistieke project. Zij zijn ook verantwoordelijk voor de uitrusting en de technische uitrusting.",2654.1.7
+Occupation,http://data.europa.eu/esco/occupation/000e93a3-d956-4e45-aacb-f12c83fedf84,8121,operator draadtrekmachine,"operator draadtrekkerij
+profileerder draadtrekkerij
+bediener van persen in de draadtrekkerij
+spoeler draadtrekkerij
+draadtrekker
+bediener van draadtreklijnen
+wikkelaar draadtrekkerij",,released,2024-01-23T10:09:32.099Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Operators draadtrekmachine configureren en bedienen trekmachines voor ferro- en non-ferrometaalproducten, die zijn ontworpen om draden, staven, pijpen, holle profielen en buizen van hun specifieke vorm te voorzien, door de dwarsdoorsnede ervan te verkleinen en door de stoffen door een reeks trekmatrijzen te trekken.",8121.4
+Occupation,http://data.europa.eu/esco/occupation/0019b951-c699-4191-8208-9822882d150c,7543,inspecteur precisie-instrumenten,"keurster precisie-instrumenten
+keurder precisie-instrumenten
+kwaliteitsinspectrice precisie-instrumenten
+kwaliteitsinspecteur precisie-instrumenten
+kwaliteitscontroleur precisie-instrumenten",,released,2024-01-25T15:00:12.188Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Inspecteurs precisie-instrumenten zorgen ervoor dat precisie-instrumenten, zoals micrometers en meetinstrumenten, volgens de ontwerpspecificaties functioneren. Zij kunnen de precisie-instrumenten en de onderdelen daarvan aanpassen in geval van storingen.",7543.10.3
+Occupation,http://data.europa.eu/esco/occupation/0022f466-426c-41a4-ac96-a235c945cf97,3155,monteur veiligheidssystemen luchtvaart,"technica veilgheidssystemen luchtvaart
+monteuse veiligheidssystemen luchtvaart
+technicus veilgheidssystemen luchtvaart
+radartechnicus",,released,2024-01-29T16:01:13.998Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Monteurs veiligheidssystemen luchtvaart bieden technische ondersteuning met betrekking tot de veiligheid van luchtverkeersleidings- en luchtvaartnavigatiesystemen. Zij ontwerpen, onderhouden, installeren en bedienen deze systemen zowel op de luchthaven als aan boord van het vliegtuig volgens de voorschriften.",3155.1
+Occupation,http://data.europa.eu/esco/occupation/002da35b-7808-43f3-83bf-63596b8b351f,2431,revenue manager,"omzetmanager
+omzetbeheerder
+yield manager",,released,2024-01-11T10:28:45.871Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Revenue managers maximaliseren de inkomsten uit faciliteiten zoals hotels, vakantieresorts en campings door trends en de concurrentie te analyseren. Zij helpen managers van faciliteiten bij het nemen van strategische beslissingen. Revenue managers analyseren en optimaliseren het financiële potentieel van faciliteiten en geven leiding aan de werknemers ervan.",2431.9
+Occupation,http://data.europa.eu/esco/occupation/0044c991-c26f-4261-a213-4bd1c0564a4c,3212,biomedisch laboratoriummedewerker,"medewerker preanalytische afdeling
+preanalytisch medewerker medisch laboratorium
+laboratoriumassistente medisch laboratorium
+laboratoriumassistent medisch laboratorium
+medewerker monsterontvangst
+medewerker laboratoriumondersteuning",,released,2024-01-24T15:38:45.842Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Biomedisch laboratoriummedewerkers werken onder toezicht van de biomedisch wetenschapper en voeren basislaboratoriumprocedures uit. Zij staan in voor de pre-analytische behandeling van monsters, zoals het controleren van de details van specimens die voor analyse zijn ontvangen, het onderhouden van analyseapparatuur, het laden van reagentia en het verpakken van specimens. Zij voeren ook administratieve taken uit, zoals het monitoren van de voorraadniveaus van reagentia die bij analyses worden gebruikt.",3212.2
+Occupation,http://data.europa.eu/esco/occupation/00634fc4-802a-461b-8af0-499273756f99,3116,asfaltlaborant,"technicus asfaltproductie
+laboratoriumtechnicus asfalt
+labotechnicus asfalt
+asfaltwegenbouwlaborant
+asfalttechnoloog
+technisch supervisor asfaltproductie
+technicus wegbedekking
+asfalttechnicus",,released,2024-01-26T15:03:25.743Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Asfaltlaboranten inspecteren asfalt en aanverwante grondstoffen en voeren er laboratoriumtests op uit om te verzekeren dat de producten van hoge kwaliteit zijn. Zij denken ook mee over oplossingen voor technische problemen op bouwplaatsen.,3116.1.1
+Occupation,http://data.europa.eu/esco/occupation/00674f21-2f8f-4a41-9896-133f7cbe2a6e,5312,onderwijsassistent basisonderwijs,"klassenassistent lager onderwijs
+klassenassistente basisonderwijs
+onderwijsassistente lager onderwijs
+klassenassistent basisonderwijs
+klassenassistente lager onderwijs
+onderwijsassistent lager onderwijs
+onderwijsassistente basisonderwijs",,released,2023-07-04T08:19:38.994Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Onderwijsassistenten basisonderwijs bieden pedagogische en praktische ondersteuning aan leerkrachten in het basisonderwijs. Zij geven extra uitleg aan studenten die extra aandacht nodig hebben en bereiden het materiaal voor dat de leerkracht nodig heeft in de klas. Zij verrichten ook administratieve werkzaamheden, houden toezicht op de vooruitgang en het gedrag van de leerlingen en houden op hen toezicht al dan niet in aanwezigheid van de hoofdleerkracht.",5312.2
+Occupation,http://data.europa.eu/esco/occupation/006cc1f9-2841-41c3-991a-dc3f2f3bd533,2264,fysiotherapeut,"algemene kinesiste
+kinesiste
+bedrijfsfysiotherapeute
+fysiotherapeute
+algemene kinesitherapeute
+bewegingstherapeut
+arbeidsfysiotherapeut
+kinesitherapeut
+kinesitherapeute
+kinesist
+algemene kinesitherapeut
+oefentherapeut
+bedrijfsfysiotherapeut
+bewegingstherapeute
+arbeidsfysiotherapeute
+algemene kinesist
+oefentherapeute",,released,2024-01-16T10:48:48.922Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Fysiotherapeuten zijn zelfstandige gezondheidswerkers die verantwoordelijk zijn voor de ontwikkeling, het behoud of het herstel van de functie en het verkeer gedurende de gehele levenscyclus, waarbij gebruik wordt gemaakt van empirisch onderbouwde praktijken. Zij verlichten de pijn en behandelen fysieke aandoeningen die verband houden met letsel, ziekte of andere beperkingen. De fysiotherapeuten geven patiënten en hun verzorgers de kans om de aandoening buiten de klinische omgeving te beheren. Zij werken binnen hun werkterrein en hun gedragscode. ",2264.2
+Occupation,http://data.europa.eu/esco/occupation/00747307-6341-4266-a061-25416f7c6a96,2310,docent drama hoger onderwijs,"lector theater
+docente acteren hoger onderwijs
+lector acteren
+lector drama
+docente drama hoger onderwijs
+docente theater hoger onderwijs
+docent theater hoger onderwijs
+docent acteren hoger onderwijs",,released,2024-01-16T13:49:12.7Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Het opleiden van kunsttheaterinstructeurs voor studenten in een specifieke theorie en, in de eerste plaats, op een gespecialiseerd theater in een gespecialiseerd theater, in het onderwijs of in een school of in een conservatie op het niveau van het hoger onderwijs. Zij geven een theoretische opleiding in dienst van de praktische vaardigheden en technieken die de leerlingen vervolgens op het toneel moeten volgen. De podiumkunsten uitoefenen om de voortgang van de studenten te volgen, indien nodig individueel bij te staan en hun kennis en prestaties van de theateroefening te evalueren aan de hand van opdrachten, tests en onderzoeken.",2310.1.30
+Occupation,http://data.europa.eu/esco/occupation/0085f271-5999-4d42-b879-75c3b4269883,8160,hydrogeneermachinebediener,"hydrogenatietechnologe
+hydrogenatietechnoloog
+hydrogenatietechnicus",,released,2024-01-24T09:18:05.061Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations",Hydrogeneermachinebedieners bedienen apparatuur voor de verwerking van basisoliën tot margarine en bakvet.,8160.39
+Occupation,http://data.europa.eu/esco/occupation/0090dd54-057a-4f65-bbe8-f74c4999e8e8,8160,operator pastamaker,"pastamakeroperator
+bediener pastamachine
+operator van pastamaker
+bediener van pastamachine
+operators pastamaker",,released,2024-02-22T16:06:16.592Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Operators pastamakers vervaardigen droge deegwaren. Zij halen grondstoffen uit opslagsilo’s en systemen voor de levering van ingrediënten. Deze operators mengen, persen, en extruderen om de pasta voldoende droog te maken.",8160.46
+Occupation,http://data.europa.eu/esco/occupation/00913533-5237-4870-9003-d1cb806603c9,1420,manager tabakswinkel,"filiaalbeheerder verkoop tabaks- en gemaksartikelen
+filiaalleidster verkoop tabaks- en gemaksartikelen
+verantwoordelijke van een tabaksspeciaalzaak
+verantwoordelijke van een tabakswinkel
+winkelier tabaks- en gemaksartikelen
+gerant van een tabakswinkel
+verantwoordelijke van een tabakspeciaalzaak
+filiaalmanager verkoop tabaks- en gemaksartikelen
+gerante van een tabaksspeciaalzaak
+manager detailhandel tabaks- en gemaksartikelen
+bedrijfsleider verkoop tabaks- en gemaksartikelen
+bedrijfsleidster verkoop tabaks- en gemaksartikelen
+ondernemer verkoop tabaks- en gemaksartikelen
+onderneemster verkoop tabaks- en gemaksartikelen
+gerante van een tabakspeciaalzaak
+filiaalbeheerster verkoop tabaks- en gemaksartikelen
+gerant van een tabakspeciaalzaak
+onderneemster detailhandel tabaks- en gemaksartikelen
+ondernemer detailhandel tabaks- en gemaksartikelen
+gerant van een tabaksspeciaalzaak
+gerante van een tabakswinkel
+filiaalleider verkoop tabaks- en gemaksartikelen",,released,2024-01-26T16:51:59.766Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations",Managers van tabakswinkels zijn verantwoordelijk voor de activiteiten en het personeel in gespecialiseerde winkels.,1420.4.42
+Occupation,http://data.europa.eu/esco/occupation/009d29de-5872-43be-8d9b-abd27f8c99f1,5249,"verhuurmedewerker van andere machines, materialen en roerende goederen","medewerker verhuur  van andere machines, materialen en roerende goederen
+medewerkster verhuur  van andere machines, materialen en roerende goederen
+verhuurmedewerkster van andere machines, materialen en roerende goederen
+verhuurmedewerker van andere machines, materialen en roerende goederen",,released,2024-01-25T09:35:09.037Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Verhuurmedewerkers van andere machines, materialen en roerende goederen zijn belast met de verhuur van apparatuur en de vaststelling van specifieke gebruiksperiodes. Zij documenteren transacties, verzekeringen en betalingen.",5249.2.1
+Occupation,http://data.europa.eu/esco/occupation/00ab29a3-6d4a-4df9-b46d-de31069e36e8,2165,mijnmeter,mijnopmeter,"engineer electriciteit & instrumentatie
+engineer electriciteit en instrumentatie
+engineer electro & instrumentatie;",released,2024-01-25T15:10:08.054Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Mijnmeters bereiden mijnbouwplannen voor en onderhouden deze in overeenstemming met de wettelijke en managementvereisten. Zij houden een register bij van de fysieke voortgang van de mijnbouwwerkzaamheden en van de erts- of mineraalproductie.,2165.4.2
+Occupation,http://data.europa.eu/esco/occupation/00ab5610-e715-428f-99f6-b1e5e469dbcd,2263,specialist voedselveiligheid,"voedingsoperator
+quality assurance-medewerker voedingsmiddelen
+consulente voedselveiligheid
+consulent voedselveiligheid
+specialiste voedselveiligheid
+productiemedewerker versindustrie
+adviseur voedselveiligheid
+kwaliteitsmedewerker levensmiddelen
+QA-medewerker voedingsmiddelen
+kwaliteitsmedewerker voedingssector
+specialiste kwaliteit & voedselveiligheid
+specialist kwaliteit & voedselveiligheid","Quality Assurance medewerker voedingsmiddelen
+QA medewerker voedingsmiddelen",released,2024-01-25T10:40:47.807Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Voedselveiligheidsdeskundigen organiseren processen en passen procedures toe om problemen met de voedselveiligheid te voorkomen. Ze voldoen aan de voorschriften.,2263.2
+Occupation,http://data.europa.eu/esco/occupation/00c8d1cf-24f2-47d1-9f10-765e1c102811,7233,technicus landbouwmachines,"mechanicien landbouwmachines
+landbouwwerktuigkkundige",,released,2024-01-25T10:01:35.496Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Technici landbouwmachines doen het onderhoud, de revisie en de reparatie van landbouwuitrusting en -machines.",7233.8
+Occupation,http://data.europa.eu/esco/occupation/00cee175-1376-43fb-9f02-ba3d7a910a58,8331,buschauffeur,"autobusbestuurster
+bestuurder van een bus
+chauffeur van een bus
+autobuschauffeur
+busbestuurder
+bestuurster bus
+chauffeur bus
+bestuurder bus
+autobusbestuurder
+bestuurster van een bus
+busbestuurster",,released,2024-01-16T13:08:38.228Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Buschauffeurs besturen bussen of touringcars, innen het door passagiers verschuldigde geld en staan passagiers ten dienste.",8331.1
+Occupation,http://data.europa.eu/esco/occupation/00fdad73-4551-4e43-b256-1d4a3759db1e,1324,import-exportmanager vlees en vleesproducten,"exportmanager vlees en vleesproducten
+import- en exportmanager vlees en vleesproducten
+manager internationale handel vlees en vleesproducten
+manager import-export vlees en vleesproducten
+customs compliance manager vlees en vleesproducten
+manager transit vlees en vleesproducten
+customs manager vlees en vleesproducten
+hoofd douanezaken vlees en vleesproducten
+manager douanezaken vlees en vleesproducten
+supervisor import-export vlees en vleesproducten
+afdelingshoofd internationale transit vlees en vleesproducten
+expediteur import vlees en vleesproducten
+importmanager vlees en vleesproducten
+manager import-exportbedrijf vlees en vleesproducten
+coördinator transit vlees en vleesproducten",,released,2024-01-26T11:38:36.28Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Import-exportmanagers van vlees en vleesproducten installeren en onderhouden procedures voor grensoverschrijdende handel, en coördinatie van interne en externe partijen.",1324.3.2.22
+Occupation,http://data.europa.eu/esco/occupation/01205776-db8d-4588-a6a6-56d0b9c660a9,2422,beleidsmedewerker volkshuisvesting,"beleidsambtenaar huisvesting
+beleidsmedewerker huisvesting
+beleidsambtenaar volkshuisvesting",,released,2023-10-31T17:37:46.596Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Beleidsmedewerkers volkshuisvesting onderzoeken, analyseren en ontwikkelen een huisvestingsbeleid dat betaalbare en adequate huisvesting voor iedereen mogelijk maakt. Zij voeren dit beleid uit om de huisvestingssituatie van de bevolking te verbeteren via maatregelen zoals het bouwen van betaalbare woningen, het ondersteunen van mensen bij de aankoop van onroerend goed en het verbeteren van de omstandigheden in bestaande woningen. Beleidsmedewerkers volkshuisvesting werken nauw samen met partners, externe organisaties of andere belanghebbenden en geven hun regelmatig updates.",2422.12.8
+Occupation,http://data.europa.eu/esco/occupation/01484951-15e6-4b88-a20f-1201868d36a0,3434,chefkok,"chef
+keukenmanager
+chef de cuisine
+hoofdkok
+keukenchef
+chef-kok",sous-chef,released,2024-01-26T12:38:03.594Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Chefkoks beheren de keuken en houden toezicht op de bereiding, het koken en het serveren van voedsel.",3434.1.1
+Occupation,http://data.europa.eu/esco/occupation/0152b59d-5005-470c-9273-ef321477d8dc,8131,machineoperator chemisch gebonden non-wovens,"machinebediener non-wovens (chemisch)
+operator machines voor non-wovenproducten (chemisch)
+operator productie non-wovenproducten (chemisch)
+productiemedewerkster non-wovens (chemisch)
+operator non-wovenproductielijn (chemisch)
+productiemedewerker non-wovens (chemisch)
+operator vliesstofvervaardiging (chemisch)
+machineoperator non-wovens (chemisch)","productiemedewerkster non-wovens (chemisch)
+operator nonwovenproductielijn (chemisch)
+operator productie nonwovenproducten (chemisch)
+machineoperator chemisch gebonden nonwovens
+machineoperator nonwovens (chemisch)
+machinebediener nonwovens (chemisch)
+operator machines voor nonwovenproducten (chemisch)
+productiemedewerker nonwovens (chemisch)",released,2023-12-19T10:24:29.092Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Machineoperators chemisch gebonden non-wovens vervaardigen chemisch gebonden non-wovens.,8131.15
+Occupation,http://data.europa.eu/esco/occupation/01649ae9-22ee-4dba-83a8-3a2c51fbbe95,1345,directeur hogeronderwijsinstelling,"algemeen directrice hogeschool
+voorzitster hogeschool
+directeur instelling voor hoger onderwijs
+rector magnificus
+directrice hoger onderwijs
+directeur hoger onderwijs
+rectrice
+voorzitster van het college van bestuur
+algemeen directeur hogeschool
+directeur hogeschool
+directrice hogeronderwijsinstelling
+directrice instelling voor hoger onderwijs
+rectrix
+directrice hogeschool
+voorzitter hogeschool
+voorzitter van het college van bestuur
+rectrix magnifica
+rector",,released,2024-01-26T12:43:59.132Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Directeuren van hogeronderwijsinstellingen beheren de dagelijkse activiteiten van een instelling voor hoger onderwijs, zoals een hogeschool of een beroepsopleiding. Directeuren van hogeronderwijsinstellingen nemen besluiten over de toelating en zijn verantwoordelijk voor het voldoen aan de normen van het curriculum, die de academische ontwikkeling van de studenten bevorderen. Zij beheren het personeel, de begroting van de school, campusprogramma’s en houden toezicht op de communicatie tussen de afdelingen. Zij zorgen er ook voor dat de instelling voldoet aan de nationale opleidingsvereisten die bij wet zijn vastgesteld.",1345.1.5
+Occupation,http://data.europa.eu/esco/occupation/0181835d-dd00-49e2-9fc4-e1382a65957f,3123,teamleider isolatie,"ploegbaas isolatiewerken
+teamleider isolatieplaatsing",,released,2024-01-25T09:00:44.642Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Teamleiders isolatie monitoren de isolatiewerkzaamheden. Zij wijzen taken toe en nemen snelle beslissingen om problemen op te lossen.,3123.1.13
+Occupation,http://data.europa.eu/esco/occupation/01989dd8-36c0-43cc-a82d-2bfc409de9c4,2149,ontmantelingsdeskundige,,,released,2024-01-29T16:00:05.821Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Ontmantelingsdeskundigen onderzoeken en plannen de optimale manier om industriële apparatuur, machines en gebouwen die de eindfase van hun levensduur hebben bereikt, te ontmantelen. Zij analyseren de vereiste werkzaamheden en plannen de verschillende operaties. Ze geven instructies aan teamleiders en houden toezicht op hun werk.",2149.8
+Occupation,http://data.europa.eu/esco/occupation/01a83071-6533-4675-b2da-f0c6d02669f5,3315,schadebehandelaar,"moterrijtuigenschadebehandelaar
+brandschadebehandelaarster
+brandschadebehandelaar
+schadebehandelaarster motorrijtuigen
+schadebehandelaarster
+schadebehandelaar water
+casebehandelaar
+schadebehandelaarster woningen
+letselschadebehandelaar
+claimbehandelaar
+woningschadebehandelaarster
+waterschadebehandelaarster
+casebehandelaar verzekeringen
+claimsbehandelaar
+casebehandelaarster verzekeringen
+schadebehandelaar woningen
+schadebehandelaarster letsels
+woningschadebehandelaar
+letselschadebehandelaarster
+claimsbehandelaarster
+schadebehandelaar woning
+claimbehandelaarster
+waterschadebehandelaar
+schadebehandelaarster brand
+motorrijtuigenschadebehandelaarster
+schaderegelaar
+schadebehandelaar letsels
+schadebehandelaarster woning
+schadebehandelaar motorrijtuigen
+schadebehandelaar brand
+schaderegelaarster
+casebehandelaarster
+schadebehandelaarster water",,released,2024-01-24T15:45:53.002Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Schadebehandelaars zorgen ervoor dat alle verzekeringsclaims accuraat worden afgehandeld en dat geldige claims aan de verzekerden worden uitbetaald. Zij gebruiken statistische gegevens en rapporten om claims te berekenen en zo nodig aan te passen, communiceren met verzekeringnemers, begeleiden hen en volgen de voortgang van een claim op.",3315.3
+Occupation,http://data.europa.eu/esco/occupation/01bcac9f-7881-4664-bd63-dea700e3b117,1223,manager productontwikkeling kleding,"brandmanager
+chef modeatelier
+productmanager confectie-industrie
+productverantwoordelijke confectie-industrie
+manager sample room
+brand manager
+hoofd productontwikkeling kleding
+projectverantwoordelijke
+projectmanager
+directrice productontwikkeling kleding
+directeur productontwikkeling kleding",,released,2024-01-16T15:06:01.417Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Managers op het gebied van de productontwikkeling van kleding definiëren productconcepten die consistent zijn met de doelgroep en de algemene marketingstrategie. Zij ontvangen wetenschappelijke bevindingen en specificaties om het voortouw te nemen bij de briefing en uitvoering van alle relevante seizoens- en strategische concepten, met inbegrip van distributie per kanaal, product, kleurintroducties en handelswaar. Zij zorgen voor de realisatie en uitvoering binnen de begroting. Zij beheren en voeren de productlijn en levenscyclus van de categorie uit, van de bepaling van het concept tot verkoop en distributie, bijdrage aan marktonderzoek, trends in de bedrijfstak, om categorieconcepten en producten te beïnvloeden.",1223.2.1.1
+Occupation,http://data.europa.eu/esco/occupation/01d74409-5303-4b5c-8925-0cc21c4da8ee,2641,medisch schrijver/medisch schrijfster,"medisch schrijver
+medisch schrijfster",,released,2023-10-24T15:54:20.773Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Medisch schrijvers produceren en verwerken wetenschappelijke documenten in verband met medische kwesties. Zij werken samen met wetenschappers, artsen en andere gezondheidswerkers.",2641.4.5
+Occupation,http://data.europa.eu/esco/occupation/01da600c-ddb3-4a37-95e9-5301b459ae90,8131,operator nitroglycerineseparator,,,released,2023-12-19T10:21:40.36Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Operators nitroglycerineseparator onderhouden de zwaartekrachtscheider die wordt gebruikt bij de verwerking van explosieven, door de temperatuur en de vloeistofstroom te controleren, teneinde nitroglycerine van gebruikte zuren te scheiden.",8131.14
+Occupation,http://data.europa.eu/esco/occupation/01ffb917-98dc-48c1-91ad-93c4104e791d,2149,biomedisch technoloog,"ingenieur biomedische technologie
+klinisch fysicus
+biomedisch technologe
+klinisch fysica
+biomedisch specialist
+ingenieur biomedisch onderzoek
+ingenieur gezondheidstechniek
+fysisch research-technicus
+biomedisch specialiste",,released,2024-01-23T11:02:42.406Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613","Biomedische technologen combineren kennis van technische beginselen en biologische bevindingen voor de ontwikkeling van medische behandelingen, geneesmiddelen en algemene gezondheidsdoeleinden. Zij kunnen oplossingen ontwikkelen, variërend van de verbetering van de bestanddelen in conventionele geneesmiddelen tot implantaten, en weefselbehandeling.",2149.5.1
+Occupation,http://data.europa.eu/esco/occupation/021663ca-a367-472e-a1f0-6d8ab5b2d860,3412,voogd,"jeugdvoogd
+voogdes",,released,2024-01-16T15:56:09.562Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Voogden bieden bijstand en ondersteuning aan minderjarige kinderen, geestelijk gehandicapten of hulpbehoevende ouderen in hun persoonlijke leven. Zij kunnen hun eigendom beheren, helpen bij de dagelijkse financiële administratie en bij de medische of sociale behoeften van de betrokken persoon onder voogdij.",3412.2
+Occupation,http://data.europa.eu/esco/occupation/02375132-3290-4221-bf55-d93ec61a3bf3,7318,wever,"operator weefmachine
+handweefster
+textielarbeider (weverij)
+weefster (weefmachine)
+weefster
+wever (handgetouw)
+weefster (handgetouw)
+textielarbeidster (weverij)
+handwever
+wever (weefmachine)",,released,2024-01-03T13:36:26.002Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Wevers voeren het weefproces uit met traditionele handweefmachines (van zijde tot tapijt, van plat tot jacquard). Zij houden toezicht op de toestand van de machines en de kwaliteit van de stof, zoals gewoven stof voor kleding, huishoudelijk textiel of technisch eindgebruik. Zij werken met machines die garens omzetten in stof zoals dekens, tapijten, handdoeken en kleding. Zij verhelpen storingen en controleren de stof die uit het weefgetouw komt.
+	",7318.6
+Occupation,http://data.europa.eu/esco/occupation/02447817-ea01-4d8b-b09c-8bc128e447e6,7122,tegelzetter,"tegellegger
+tegellegster
+vloerder
+tegelzetster",,released,2024-01-23T11:39:11.54Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Tegelzetters installeren tegels op muren en vloeren. Ze snijden tegels naar de juiste afmetingen en vorm, bereiden het oppervlak voor en plaatsen de tegels, aansluitend en recht. Tegelzetters kunnen zich ook bezighouden met creatieve en artistieke projecten. Sommigen leggen mozaïeken.",7122.4
+Occupation,http://data.europa.eu/esco/occupation/0249b723-1d20-4ff9-8623-d20b98d0b4a4,1420,bedrijfsleider verkoop schoenen en lederwaren,"verkoopleider detailhandel schoenen en lederwaren
+verkoopchef schoenen en lederwaren
+bedrijfsleidster verkoop schoenen en lederwaren
+floormanager verkoop schoenen en lederwaren
+afdelingsmanager verkoop schoenen en lederwaren
+afdelingschef verkoop schoenen en lederwaren",,released,2024-01-26T11:45:55.696Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations",Bedrijfsleiders van schoenen en lederwaren zijn verantwoordelijk voor activiteiten en personeel in gespecialiseerde winkels.,1420.4.38
+Occupation,http://data.europa.eu/esco/occupation/02609ece-cea3-43fa-bf38-b6fb821f28b2,1439,touroperator manager,"hoofd reisorganisatie
+manager van een reisorganisatie",,released,2024-02-23T08:19:23.514Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations",Touroperator managers zijn verantwoordelijk voor het beheer van personeel en activiteiten die verband houden met de organisatie van pakketreizen en andere toeristische diensten.,1439.7
+Occupation,http://data.europa.eu/esco/occupation/026401a9-7d56-4d7b-8052-38985ddbeafa,6123,imker,"bijker
+bijenkweker
+bijenhouder",,released,2024-02-23T08:35:21.128Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Imkers houden toezicht op de productie en de dagelijkse verzorging van bijen. Zij zorgen voor de gezondheid en het welzijn van de bijen.,6123.1
+Occupation,http://data.europa.eu/esco/occupation/0264b794-3771-47aa-a675-78bf13b62ee7,3342,administratief medewerker juridisch secretariaat,"notarieel secretaris
+notarieel secretaresse
+juridisch secretaris
+administratief medewerker juridisch secretariaat
+administratief medewerkster juridisch secretariaat
+juridisch secretaresse",,released,2024-01-26T14:54:54.775Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Administratief medewerkers juridisch secretariaat voeren de dagelijkse administratieve werkzaamheden van firma's, notariskantoren en bedrijven uit. Dit omvat onder meer mails schrijven, de telefoon opnemen en teksten typen. Zij combineren deze activiteiten met specifieke kennis van en inzicht in juridische procedures en voorschriften.",3342.2
+Occupation,http://data.europa.eu/esco/occupation/026a5233-cad9-4b1d-8852-22c2685ab34e,3134,operator oliepompsysteem,operator petroleumpompsysteem,,released,2024-01-26T14:51:14.378Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Operators oliepompsysteem staan in voor pompen die de circulatie van olie en afgeleide producten soepel laten verlopen. Zij monitoren het debiet in de leidingen bij een raffinaderij en testen de apparatuur om storingen zoveel mogelijk te voorkomen. Zij werken vanuit een sterk geautomatiseerde controlekamer, waar ze met andere werknemers communiceren om de pompactiviteiten te coördineren. Zij voeren kleine reparatie- en onderhoudswerkzaamheden uit en rapporteren zoals gevraagd.",3134.4
+Occupation,http://data.europa.eu/esco/occupation/029a5b78-4d1c-4cf9-a2d2-bb8d8729b8a3,8153,productiemedewerker beschermende kleding,"productiemedewerkster beschermende kleding
+productiemedewerker beschermende kleding
+productiemedewerkster beschermkledij
+productiemedewerker beschermkledij",,released,2024-01-26T16:06:17.964Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Productiemedewerkers beschermende kleding produceren persoonlijke beschermingsmiddelen (PBM) van textiel. Zij produceren kleding die bestand is tegen verschillende gevaren (zoals thermische, fysische, elektrische, biologische en chemische gevaren), verwarmende kleding met een hoge zichtbaarheid, die beschermt tegen koel of koud weer, regen, UV-zonnestraling enz. Zij volgen daarbij de normen en beoordelen of aan de eisen wordt voldaan.",8153.1.5
+Occupation,http://data.europa.eu/esco/occupation/02b5b7b0-b856-4ac7-924c-8c35c7880b2a,8122,coatingmachinebediener,"galvaniseerder
+coatingmachineoperator
+galvaniseur",,released,2024-01-23T10:09:53.335Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Coatingmachinebedieners configureren en bedienen coatingmachines die metalen producten bekleden met een dunne laag dekmaterialen, zoals lak, glazuur, koper, nikkel, zink, cadmium, chroom of een andere metaallaag, om de oppervlakken van de metalen producten te beschermen of te verfraaien. Zij voeren alle coatingmachine-instellingen uit op verschillende coaters.",8122.3
+Occupation,http://data.europa.eu/esco/occupation/02bd7cac-8263-4425-b03d-19001ffe8787,6221,beheerder van aquacultuurkwekerij,,,released,2024-01-23T13:38:55.829Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Beheerders van aquacultuurkwekerijen plannen, leiden en coördineren de productie van vis en schaal- en schelpdieren op grote schaal, ontwikkelen strategieën voor de kweek van aquacultuur waarbij gebruik wordt gemaakt van verschillende soorten paaitechnieken. Zij controleren de voortplantingsfase en de fasen van de levenscyclus van gekweekte soorten in een vroeg stadium. Zij zien toe op de incubatie-, voeder- en kweektechnieken van de gekweekte soorten.",6221.3
+Occupation,http://data.europa.eu/esco/occupation/02d4f153-8e43-444d-8bd4-8171d49eab12,7223,werktuigkundige aandrijvingen,,,released,2024-01-16T16:15:45.415Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations",Werktuigkundigen aandrijvingen maken precisieonderdelen voor raderwerk en andere aandrijvingselementen. Zij gebruiken verschillende werktuigmachines.,7223.8
+Occupation,http://data.europa.eu/esco/occupation/02e19186-458f-40eb-9e78-31c656d12ac7,1411,reserveringsmanager,"office manager
+hoofdreceptionist
+directeur kamers
+receptiemanager",,released,2024-01-23T10:54:41.155Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Reserveringsmanagers zijn belast met het beheer en de coördinatie van een team van medewerkers aan de ontvangstbalie, reserveringen, huishoudelijke uitgaven en de onderhoudsafdelingen.",1411.3
+Occupation,http://data.europa.eu/esco/occupation/02e94cd6-8e6d-4e9b-b695-edb460c70528,7316,aardewerkschilder,"schilder (aardewerk)
+tegelschilder
+schilderes op aardewerk
+aardewerkschilderes
+schilder op keramiek
+schilderes (aardewerk)
+keramiekschilder
+decorateur aardewerk
+schilderes (keramiek)
+schilderes op keramiek
+keramiekschilderes
+schilder op aardewerk
+tegelschilderes
+schilder (keramiek)","ceramiekschilder
+schilder (ceramiek)",released,2024-01-26T15:04:32.342Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Aardewerkschilders ontwerpen en creëren visuele kunst op keramische oppervlakken en voorwerpen, zoals tegels, beeldhouwwerk, vaatwerk en aardewerk. Zij gebruiken verschillende technieken voor het vervaardigen van decoratieve illustraties, variërend van sjabloneren tot tekenen met de vrije hand.",7316.1.1
+Occupation,http://data.europa.eu/esco/occupation/02eb0ae6-ecdd-4602-9c8e-60ffe6dbe1e2,2153,ingenieur telecommunicatie,"telecommunicatie-ingenieur
+telecommunications designer
+telecommunicatienetwerk ingenieur
+telecoms engineer
+telecom-ingenieur
+telecom ingenieur",,released,2024-01-26T11:25:53.84Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Ingenieurs op het gebied van telecommunicatie ontwerpen, bouwen, testen en onderhouden telecommunicatiesystemen en -netwerken, met inbegrip van radio- en omroepapparatuur. \
+Zij analyseren de behoeften en eisen van de klant, zorgen ervoor dat de apparatuur in overeenstemming is met de voorschriften, en stellen verslagen en voorstellen op met betrekking tot problemen in verband met telecommunicatie en presenteren deze. Ingenieurs op het gebied van telecommunicatie ontwerpen en overzien de dienstverlening in alle fasen, houden toezicht op de installatie en het gebruik van telecommunicatieapparatuur en -faciliteiten, stellen documentatie op en verzorgen trainingen voor het personeel van de onderneming zodra nieuwe apparatuur is geïnstalleerd.",2153.1
+Occupation,http://data.europa.eu/esco/occupation/02f1ae71-f89c-47b7-af2c-50d7ab1d9b8a,2352,docent alfabetisering,"docent NT2
+docente Nederlands als tweede taal
+docent Alfa NT2
+docent Nederlands als tweede taal
+lesgever alfabetisering
+lesgever NT2
+docente Alfa NT2
+lesgeefster alfabetisering
+docente alfabetisering
+lesgeefster NT2
+lesgeefster Alfa NT2
+lesgever Alfa NT2
+docente NT2",,released,2023-12-21T09:40:05.871Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Leerkrachten op het gebied van lees- en schrijfvaardigheid van volwassenen instrueren volwassen studenten, met inbegrip van recente immigranten en voortijdige schoolverlaters, bij het lezen en schrijven van vaardigheden, gewoonlijk op het niveau van het basisonderwijs. De leerkrachten in het volwassenenonderwijs betrekken de leerlingen bij de planning en uitvoering van hun leesactiviteiten, en beoordelen en evalueren ze individueel door middel van opdrachten en examens.",2352.1.1
+Occupation,http://data.europa.eu/esco/occupation/02f26b2f-879c-4811-8381-65e8dd3f4a16,1321,kwaliteitsmanager schoenproductie,"kwaliteitsmanager schoenindustrie
+kwaliteitscontroleur schoenproductie
+baas kwaliteits- en controledienst schoenproductie",,released,2024-01-26T16:58:41.435Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Kwaliteitsmanagers op het gebied van schoenproductie zorgen voor de uitvoering, het beheer en de promotie van de kwaliteitssystemen in de onderneming en maken daarbij gebruik van adequate instrumenten en methoden op basis van nationale, internationale of bedrijfsnormen. Zij zijn belast met het vaststellen van eisen en doelstellingen en het opstellen van documenten. Zij analyseren klachten en bevorderen en coördineren corrigerende en preventieve maatregelen. Zij bevorderen een doeltreffende interne en externe communicatie en zorgen ervoor dat aan de eisen van de consument wordt voldaan. Zij zijn verantwoordelijk voor de omschrijving van de instrumenten voor het toezicht op en de controle van de kwaliteitssystemen, namelijk interne of externe audits, en zij nemen deel aan de interne controle.",1321.2.2.1
+Occupation,http://data.europa.eu/esco/occupation/02ff199e-38b3-45fd-b659-68846cfeeb92,7126,sprinklermonteur,"monteuse sprinklerinstallaties
+sprinklermonteuse
+installateur sprinklerinstallaties
+monteuse van sprinklerinstallaties
+monteur van sprinklerinstallaties
+monteur sprinklerinstallaties
+installateur van sprinklerinstallaties
+sprinklerinstallateur",,released,2016-07-05T15:45:57Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Sprinklermonteurs zijn verantwoordelijk voor de installatie van brandbeveiligingssystemen die water sproeien. Zij verbinden pijpen, buizen en noodzakelijke toebehoren. Sprinklermonteurs testen ook de systemen op lekken.",7126.12
+Occupation,http://data.europa.eu/esco/occupation/032d4115-03ec-49c9-853d-678f8a41969b,1324,distributiemanager elektronische en telecommunicatieapparatuur en bijbehorende onderdelen,"manager goederenstroom elektronische en telecommunicatieapparatuur en bijbehorende onderdelen
+logistiek planner elektronische en telecommunicatieapparatuur en bijbehorende onderdelen
+supply chain manager elektronische en telecommunicatieapparatuur en bijbehorende onderdelen
+distributiechef elektronische en telecommunicatieapparatuur en bijbehorende onderdelen
+verantwoordelijke distributielogistiek elektronische en telecommunicatieapparatuur en bijbehorende onderdelen
+logistiek manager elektronische en telecommunicatieapparatuur en bijbehorende onderdelen
+chef distributie elektronische en telecommunicatieapparatuur en bijbehorende onderdelen
+hoofd distributie elektronische en telecommunicatieapparatuur en bijbehorende onderdelen
+manager distributie elektronische en telecommunicatieapparatuur en bijbehorende onderdelen
+supply chain planner elektronische en telecommunicatieapparatuur en bijbehorende onderdelen",,released,2024-01-26T15:40:41.703Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations",Distributiemanagers van elektronische en telecommunicatieapparatuur en bijbehorende onderdelen plannen de distributie van elektronische en de telecommunicatieapparatuur en bijbehorende onderdelen naar verschillende verkooppunten.,1324.3.1.6.11
+Occupation,http://data.europa.eu/esco/occupation/034cad59-e666-4770-a7ef-a337257f8072,2352,leerkracht speciaal voortgezet onderwijs,"leerkracht bijzonder secundair onderwijs
+lerares bijzonder voortgezet onderwijs
+onderwijsgevende bijzonder voortgezet onderwijs
+leerkracht buitengewoon secundair onderwijs
+onderwijsgevende buitengewoon secundair onderwijs
+leraar/lerares bijzonder secundair onderwijs
+leraar speciaal voortgezet onderwijs
+lerares speciaal voortgezet onderwijs
+onderwijsgevende speciaal voortgezet onderwijs
+lerares buitengewoon secundair onderwijs
+lerares bijzonder secundair onderwijs
+onderwijsgevende bijzonder secundair onderwijs
+leraar bijzonder secundair onderwijs
+leraar/lerares buitengewoon secundair onderwijs
+leraar bijzonder voortgezet onderwijs
+leraar buitengewoon secundair onderwijs
+leerkracht bijzonder voortgezet onderwijs
+leraar/lerares bijzonder voortgezet onderwijs",,released,2024-01-12T13:41:37.173Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","In het kader van de speciale educatieve behoeften van leraren in het middelbaar onderwijs wordt een speciaal ontworpen instructie gegeven aan studenten over een aantal handicaps op het niveau van het middelbaar onderwijs en zien zij erop toe dat zij hun leerpotentieel bereiken. In het kader van de speciale educatieve behoeften van leerkrachten in het voortgezet onderwijs met kinderen die een lichte tot matige handicaps hebben, wordt een aangepast curriculum uitgevoerd om aan de specifieke behoeften van elke student te voldoen. In het bijzonder onderwijs voor leerlingen met een verstandelijke handicap en autisme bij leerlingen in het middelbaar onderwijs, waarbij de nadruk wordt gelegd op het aanleren van elementaire en geavanceerde lees- en schrijfvaardigheid, sociale vaardigheden en vaardigheden op het gebied van autisme in het onderwijs. Alle leerkrachten beoordelen de vooruitgang van de studenten, rekening houdend met hun sterke en zwakke punten, en delen hun bevindingen mee aan ouders, counselors, beheerders en andere betrokken partijen.",2352.1.6
+Occupation,http://data.europa.eu/esco/occupation/03632d98-0ae3-4dd2-941c-3b48de9a0219,1431,uitvoerend producent,"productieleider
+manager theaterproducties
+productiemanager
+voorstellingsleidster
+uitvoerend producente
+theaterproducent
+filmproductieleider
+tourmanager
+theaterproducente
+voorstellingsleider",,released,2024-01-17T16:39:50.16Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Uitvoerend producenten zorgen voor een aantal praktische zaken in verband met de productie. Zij houden zich bezig met aangelegenheden variërend van de aanwerving van personeel en de aanschaf van materialen en diensten tot goederen, douanecoördinatie, telecommunicatie, arbeidsverhoudingen, logistiek, informatietechnologie, samenwerking van de regering, reservering van de locatie, planning, exploitatiebeheer, het herstellen van vertragingsproblemen en veiligheid op de werkplek.",1431.1.2
+Occupation,http://data.europa.eu/esco/occupation/0368c4d4-94cf-4168-a84d-283a25880e0d,1321,manager metaalproductie,"technisch directrice metaalproductie
+bedrijfsleider metaalproducten
+bedrijfsleider metaalproductie
+bedrijfsleider metaalwarenproducten
+bedrijfsleider metaalwarenproductie
+bedrijfsleidster metaalwarenproducten
+bedrijfsleidster metaalproductie
+chef metaalsmelterij
+manager metaalsmelterij
+operations manager metaalproductie
+technisch directeur metaalproductie
+bedrijfsleidster metaalwarenproductie
+chef metaalwarenproductie",,released,2024-01-17T16:10:56.055Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Metaalproductiemanagers organiseren en beheren de dagelijkse projectwerkzaamheden en die op de lange termijn in een fabriek voor de fabricage van metalen, om primaire metalen tot bewerkte metalen te verwerken. Zij maken en plannen productieplannen, werven nieuw personeel, handhaven het veiligheids- en ondernemingsbeleid, en streven naar tevredenheid van de klanten door de kwaliteit van het product te waarborgen.",1321.2.1.8
+Occupation,http://data.europa.eu/esco/occupation/036dc42f-bd4d-4533-a3cc-fcd313227ce3,8211,assemblagetechnicus vliegtuigmotoren,"assemblagemedewerker vliegtuigmotoren
+assemblagemedewerkster vliegtuigmotoren
+assemblagemonteur vliegtuigmotoren",,released,2024-01-29T09:08:54.251Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Assemblagetechnici vliegtuigmotoren bouwen en installeren geprefabriceerde onderdelen van vliegtuigmotoren, zoals lichtgewicht zuigermotoren en gasturbines. Zij lezen specificaties en technische tekeningen om materialen en assemblage-instructies te bepalen. Zij inspecteren en testen de motoren en keuren defecte onderdelen af.",8211.1.1
+Occupation,http://data.europa.eu/esco/occupation/03b2f112-a891-461d-a8d4-effb9dcf2df6,2146,ingenieur ontginningsgebieden,"geodetisch ingenieur
+ingenieur bij de exploitatie van ontginningsgebieden
+ingenieur mijnbouw
+mijnbouwingenieur
+ingenieur geodesie
+ingenieur voor ontginningen",,released,2024-01-23T11:01:56.829Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Ingenieurs van ontginningsgebieden analyseren welke extractiemethoden zoals graafwerkzaamheden, boren en stralen het meest geschikt zijn om grondstoffen uit de grond te winnen. Zij ontwikkelen plannen voordat een nieuw ontginningsgebied wordt geopend, waarbij wordt beoordeeld of het gebied winstgevend is. Ingenieurs van ontginningsgebieden beheren de dagelijkse activiteiten in een ontginningsgebied, creëren en onderhouden voortgangsverslagen, houden toezicht op het personeel, zorgen voor de gezondheid en veiligheid en beoordelen de gevolgen van een ontginningsgebied voor het milieu.",2146.11
+Occupation,http://data.europa.eu/esco/occupation/03b55cb5-9735-4582-8e20-2b1cb76635cb,1420,manager audiologiewinkel,"bedrijfsleider speciaalzaak in hoortoestellen
+audicienne
+bedrijfsleidster speciaalzaak in hoortoestellen
+audiologe
+audioloog
+audioloog-audicien
+audicien
+audiologe-audicienne",,released,2024-01-26T11:11:57.742Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations", Managers van audiologiewinkels zijn verantwoordelijk voor de activiteiten en het personeel in gespecialiseerde winkels.,1420.4.4
+Occupation,http://data.europa.eu/esco/occupation/03b9d7c4-9590-4e0d-97a7-470254e165d4,5223,verkoopspecialist ijzerwaren en verf,"verkoopspecialist ijzerwaren en gereedschappen
+verkoopspecialist verf en behang",,released,2024-02-08T10:21:14.66Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Verkoopspecialisten ijzerwaren en verf verkopen ijzerwaren, verven en ander materiaal in gespecialiseerde winkels.",5223.7.21
+Occupation,http://data.europa.eu/esco/occupation/03d79393-7b30-4159-945b-01963eddd302,2341,leraar basisonderwijs,"onderwijzer
+leerkracht basisonderwijs
+onderwijsgevende basisonderwijs
+lerares lager onderwijs
+onderwijzer/onderwijzeres
+lerares basisonderwijs
+leraar lager onderwijs
+leraar/lerares lager onderwijs
+onderwijsgevende lager onderwijs
+onderwijzeres
+leerkracht lager onderwijs",,released,2024-01-16T13:49:51.515Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Leerkrachten van het lager onderwijs instrueren leerlingen op een lager schoolniveau. Zij ontwikkelen lesplannen overeenkomstig de doelstellingen van de leerplannen voor de verscheidenheid aan vakken die zij onderwijzen, met inbegrip van wiskunde, talen, natuurstudies en muziek. Zij houden toezicht op de leerontwikkeling van de leerlingen en evalueren hun kennis en vaardigheden over de onderwezen vakken. Zij baseren de inhoud van hun curriculum op de kennis van de leerlingen van wat ze eerder hebben geleerd en stimuleren ze om hun inzicht te verdiepen in de vakken waarin ze geïnteresseerd zijn. Zij maken gebruik van hulpmiddelen in de klas en leermethoden om een inspirerende leeromgeving te creëren. Leerkrachten in het basisonderwijs dragen ook bij aan schoolevenementen en communiceren met ouders en administratief personeel.",2341.1
+Occupation,http://data.europa.eu/esco/occupation/03e02554-15d1-4697-960c-8909e7d36f7e,8331,trambestuurder,"bestuurster tram
+trambestuurder
+bestuurder tram
+bestuurder van een tram
+trambestuurster
+bestuurster van een tram",,released,2024-01-16T13:07:51.165Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Trambestuurders besturen trams, innen het door passagiers verschuldigde geld, en staan passagiers ten dienste.",8331.2
+Occupation,http://data.europa.eu/esco/occupation/040f62f5-d570-4d3f-b732-c8ea4afc2738,3122,montageleider assemblage reservoirs,"assemblagemonteur reservoirs
+assemblagetechnicus reservoirs
+opzichter montage drukvaten
+supervisor montage reservoirs
+verantwoordelijke assemblage reservoirs
+opzichter montage reservoirs
+opzichter montage opslagtanks
+supervisor montage opslagtanks
+ploegbaas assemblage reservoirs
+supervisor montage drukvaten",,released,2024-01-16T15:10:20.279Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Montageleiders assemblage reservoirs monitoren het assemblageproces van reservoirs zoals ketels of drukvaten. Zij trainen en coachen de werknemers die zijn betrokken bij de assemblage om de productiedoelstellingen te realiseren.,3122.3.2
+Occupation,http://data.europa.eu/esco/occupation/040fcfa5-24be-43eb-afd5-828297175b16,4321,magazijnmedewerker kleding,"magazijnhulp kleding
+magazijnmedewerkster kleding
+loodsmedewerker kleding
+loodsmedewerkster kleding
+magazijnmedewerker kleding
+magazijnbediende kleding",,released,2024-01-16T11:17:25.382Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Magazijnmedewerkers kleding zijn belast met de opslag van textiel, accessoires en onderdelen voor kledingproductie. Zij zorgen ervoor dat alle onderdelen die nodig zijn voor de productie van kleding, klaar zijn om in de productieketen te worden gebruikt door de aangekochte onderdelen te classificeren en te registreren, ramen de aankopen en verdelen deze over de verschillende diensten",4321.1.5
+Occupation,http://data.europa.eu/esco/occupation/044d78cc-f62f-4532-83a5-8e04f2889652,3343,administratief medewerker,"kantoorassistente
+kantoorassistent
+administratief assistent
+kantoorhulp
+administratief assistente
+administratief medewerkster",,released,2024-01-17T16:46:46.636Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Administratief medewerkers verrichten ondersteunend administratief en kantoorwerk voor leidinggevenden. Zij voeren uiteenlopende taken uit, zoals de telefoon opnemen, bezoekers ontvangen en de weg wijzen, kantoorbenodigdheden bestellen en de kantoorfaciliteiten onderhouden. Zij zorgen er ook voor dat apparatuur goed functioneert.
+	",3343.1
+Occupation,http://data.europa.eu/esco/occupation/0458929a-f6c9-40ed-8ce3-caa9f03a6b5b,8160,koffiemaler,"koffiemolen operators
+koffiemolenbediener
+koffiemolenoperator",,released,2024-01-16T09:39:07.411Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Koffiemalers bedienen koffiemolens om koffiebonen volgens specificatie meer of minder fijn te malen.,8160.22
+Occupation,http://data.europa.eu/esco/occupation/045f05f2-4ff8-46b2-9d08-e12a81657498,3344,administratief medewerker medisch secretariaat,"medewerker medisch secretariaat
+medisch secretaris
+medisch-administratief medewerkster
+medewerkster medisch secretariaat
+medisch-administratief medewerker
+administratief medewerkster medisch secretariaat
+medisch secretaresse",,released,2024-01-26T16:55:45.264Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Administratief medewerkers medisch secretariaat werken zeer nauw samen met gezondheidswerkers. Zij bieden kantoorondersteuning zoals het behandelen van correspondentie, het vastleggen van afspraken en het beantwoorden van vragen van patiënten.",3344.1
+Occupation,http://data.europa.eu/esco/occupation/0464b062-cea6-4164-b10d-956c61956ae7,2529,ict security administrator,"ICT security specialist
+information security manager
+IT security specialist
+IT security manager
+it security manager
+security manager
+security administrator
+security officer",,released,2024-01-26T09:53:59.172Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","ICT security administrators plannen en voeren beveiligingsmaatregelen uit om informatie en gegevens te beschermen tegen ongeoorloofde toegang, opzettelijke aanvallen, diefstal en beschadiging.",2529.6
+Occupation,http://data.europa.eu/esco/occupation/046574a1-9bb3-4a80-8a7b-83dc7db1dae2,3123,voorman metselaar,"opperman metselwerk
+metser
+opzichter metselwerk
+meewerkend voorman metselaar
+metselaar
+teamleider-metselaar",,released,2024-01-24T16:00:11.181Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations",Voormannen metselaar monitoren metselwerkzaamheden. Zij wijzen taken toe en nemen snelle beslissingen om problemen op te lossen.,3123.1.1
+Occupation,http://data.europa.eu/esco/occupation/047108c3-f987-40a4-bef0-f2b3407ec16a,2269,medisch-fysisch deskundige,"medisch stralingsfysica veiligheidsspecialist
+medisch fysica specialist
+MPE",,released,2024-02-22T14:05:57.025Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Medisch-fysisch deskundigen adviseren over zaken die verband houden met stralingsfysica in verband met medische blootstelling. Zij zijn verantwoordelijk voor dosimetrie en de optimalisatie van de stralingsbescherming van patiënten en van andere personen die in een medische context aan straling worden blootgesteld, waaronder de toepassing en het gebruik van diagnostische referentieniveaus. Medisch-fysisch deskundigen zijn betrokken bij de selectie van medisch-radiologische apparatuur, de kwaliteitsborging inclusief acceptatietesten, het opstellen van technische specificaties en de installatie, het ontwerp en de bewaking van de medisch-radiologische installaties. Daarnaast analyseren zij de gebeurtenissen waarbij sprake is van toevallige of onopzettelijke medische blootstellingen en zijn verantwoordelijk voor de opleiding van praktijkbeoefenaars en ander personeel in relevante aspecten van stralingsbescherming.
+	",2269.3
+Occupation,http://data.europa.eu/esco/occupation/0477b9b0-8d2d-4eec-aaad-bac11092e98b,8114,productiemedewerker granulaten,"steensplitmenger
+operator granulaatinstallaties
+leislagmenger
+steenslagmenger",,released,2024-01-23T10:09:09.169Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Productiemedewerkers granulaten bedienen en onderhouden leisteenmengmachines die meerkleurige leisteenkorrels mengen die worden gebruikt voor met asfalt bedekte dakbekleding.,8114.6
+Occupation,http://data.europa.eu/esco/occupation/04849c5c-9236-4a75-aabb-11c6d03e459c,3115,technisch ingenieur vaartuigen,"monteur scheepsbouw
+technisch ingenieur schepen
+technicus vaartuigen
+scheepsbouwkundige
+technisch ingenieur pleziervaartuigen
+technicus onderzeeboten
+maritiem elektromonteur
+technicus onderzeeërs
+technisch ingenieur onderzeeboten
+technicus scheepsbouw
+technisch ingenieur vrachtschepen
+technisch ingenieur jachten",,released,2024-01-16T13:14:52.933Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Technisch ingenieurs vaartuigen voeren technische functies uit om ingenieurs vaartuigen te helpen bij het ontwerpen, ontwikkelen, produceren, testen, installeren en onderhouden van alle soorten boten, van pleziervaartuigen tot marineschepen en onderzeeërs. Zij voeren ook experimenten uit, verzamelen en analyseren gegevens en rapporteren hun bevindingen.",3115.1.7
+Occupation,http://data.europa.eu/esco/occupation/04b52c04-0620-4558-8f89-e252de2963ff,1221,veilinghuisdirecteur,"manager veilinghuis
+verkoopzaaldirecteur
+venduhuismanager
+veilinghuisdirecteur
+directeur van een veilinghuis
+veilinghuisbeheerder
+verkoopzaaldirectrice
+verkoopzaalmanager
+verkoopzaalbeheerder
+manager van een veilinghuis
+veilinghuismanager
+venduhuisdirectrice
+veilinghuisdirectrice
+directeur van een venduhuis
+manager van een venduhuis
+venduhuisdirecteur
+beheerder van een veilinghuis
+directrice van een veilinghuis
+directrice van een venduhuis",,released,2024-01-25T12:13:32.274Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Veilinghuisdirecteuren zijn verantwoordelijk voor het personeel en de activiteiten in een veilinghuis. Bovendien beheren zij de financiën en de marketingaspecten van het veilinghuis.,1221.1
+Occupation,http://data.europa.eu/esco/occupation/04ba4d6c-957d-417f-bf63-5b9e015a9f86,2512,software analist,"softwareanalist
+software analyst
+applicatie analist",,released,2024-01-26T14:06:25.576Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Software analysts bepalen en prioriteren gebruikersbehoeften, stellen softwarespecificaties op en documenteren ze, testen hun toepassing en evalueren die tijdens de softwareontwikkeling. Zij fungeren als interface tussen de softwaregebruikers en het softwareontwikkelingsteam.",2512.2
+Occupation,http://data.europa.eu/esco/occupation/04f39bfa-bc03-4480-98bc-b18ce4fe4b4b,1211,hoofd boekhouding,"financial director
+cost accounting manager
+boekhouder
+directeur boekhoudkundige diensten
+accounting department manager
+group accounting manager
+chef boekhouding
+accounting manager
+interne accountant
+bedrijfsaccountant
+financial accounts supervisor
+vestigingsleider accountantskantoor
+accountant
+bedrijfsboekhoudster
+financieel directeur
+leidinggevende boekhoudafdeling
+accounting director
+boekhoudster
+hoofdboekhouder
+teamverantwoordelijke boekhouding
+vestigingsmanager accountantskantoor
+financial accounting manager
+bedrijfsboekhouder
+hoofdboekhoudster
+verantwoordelijke boekhouding
+directeur financiën en boekhouding
+accounts payable manager
+head of accounts
+manager accountantskantoor
+directeur boekhouding
+iensthoofd boekhouding
+accounting office manager",,released,2024-01-22T11:52:52.028Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Hoofden van de boekhouding zijn verantwoordelijk voor alle boekhoudkundige activiteiten in verband met de financiële verslaggeving. Zij ontwikkelen en onderhouden boekhoudkundige beginselen en procedures om te zorgen voor tijdige en nauwkeurige financiële overzichten, houden toezicht op de boekhouding en beheren de boekhoudkundige activiteiten binnen de passende termijn en de begroting.
+	",1211.1.1
+Occupation,http://data.europa.eu/esco/occupation/0552ff45-b282-455c-b431-fb05a0e00801,1219,manager gieterij,"productiemanager gieterij
+locatiemanager
+gieterijmanager
+operationeel manager gieterij
+procesmanager gieterij",,released,2024-01-25T12:13:08.612Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Managers van gieterijen coördineren en voeren gietproductieschema’s voor de korte en de middellange termijn uit en coördineren de ontwikkeling, ondersteuning en verbetering van de gietprocessen en de betrouwbaarheidsinspanningen van de onderhouds- en technische afdelingen. Zij zijn ook partner met lopende saneringsinitiatieven.",1219.5.2
+Occupation,http://data.europa.eu/esco/occupation/0561328b-875b-4ae2-9ba1-9af9049aef01,2422,Category specialist aanbesteding,"categorie specialist
+toeleveringsspecialist
+marktspecialist",,released,2024-02-22T15:43:58.787Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Category specialists aanbesteding zijn deskundigen van specifieke markten en contractvormen en bieden geavanceerde kennis van een bepaalde categorie leveringen, diensten of werken. Met hun geavanceerde kennis van leveranciers en hun aanbod helpen zij om de toegevoegde waarde voor interne en externe klanten en de tevredenheid van de eindgebruiker te verbeteren.
+	",2422.14
+Occupation,http://data.europa.eu/esco/occupation/056bef79-c125-47ab-b6b9-8eed05c9458c,7422,monteur telecommunicatie,"technisch medewerker telecommunicatie
+installateur telecommunicatie
+onderhoudsmonteur telecommunicatie
+telecommonteur",,released,2024-01-25T14:29:19.842Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Monteurs telecommunicatie installeren, testen, onderhouden en herstellen telecommunicatiesystemen. Zij herstellen of vervangen defecte apparaten en apparatuur en onderhouden een veilige werkomgeving en een volledige inventaris van de leveringen. Zij verlenen ook gebruikers- of klantenbijstand. 
+ ",7422.7
+Occupation,http://data.europa.eu/esco/occupation/056f1849-7ff8-4d6f-9b8a-176a610bba44,5242,promotiemedewerker,"promotiemedewerker
+demonstrateur
+commercieel demonstratrice
+demonstratrice
+medewerkster van een promoteam
+promotiemedewerkster
+commercieel demonstrateur
+medewerker van een promoteam",,released,2024-01-23T13:51:44.35Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations",Promotiemedewerkers zijn proactief gericht op het zoeken naar nieuwe potentiële klanten. Zij geven productspecifiek advies en demonstreren promotionele producten of diensten.,5242.1
+Occupation,http://data.europa.eu/esco/occupation/0599d0e7-398f-464b-97bb-427686f27d50,2320,instructeur scheepvaart,"instructeur maritieme technieken
+instructeur maritieme techniek
+instructrice maritieme techniek
+instructeur maritieme vorming
+instructrice scheepvaart
+instructrice maritieme vorming
+instructrice maritieme technieken",,released,2024-01-25T10:48:56.651Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Maritieme instructeurs geven les over al degenen die beroepshalve een boot of een schip uitvoeren, zoals schippers en kapiteins van schepen, hoe zij hun binnenvaartschepen of zeeschepen in overeenstemming met de voorschriften kunnen exploiteren. Zij geven les over de theorie en de technieken van hun studenten met betrekking tot het optimaal loodsen, sturen en navigeren, en het in stand houden van hun specifieke schip of schip, observeren en evalueren de praktijk van de studenten. Zij richten zich ook op niet-sturende onderwerpen, zoals klantendienst (in het geval van personenvervoer) en veiligheidsvoorschriften.",2320.1.17
+Occupation,http://data.europa.eu/esco/occupation/05a06850-d465-481e-9d68-792d4ad1da3e,3311,valutatrader,"valutahandelaar
+medewerkster forex
+medewerker forex
+trader valuta
+forex trader
+trader vreemde valuta
+specialist valutahandel",,released,2024-01-24T15:44:47.36Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations",Valutatraders kopen en verkopen vreemde valuta's om winst te maken op wisselkoersschommelingen. Zij voeren technische analyses uit op economische informatie (marktliquiditeit en -volatiliteit) om de toekomstige koersen van valuta's op de valutamarkt te voorspellen. Zij handelen in eigen naam of voor hun werkgevers.,3311.3.2
+Occupation,http://data.europa.eu/esco/occupation/05a55bb3-68d6-4ff0-83fd-46a68a45a598,3115,technisch ingenieur lucht- en ruimtevaart,"vliegtuigbouwkundige
+luchtvaarttechnicus avionica en elektriciteit
+technicus ruimtevaart
+technisch ingenieur luchtvaart
+ruimtevaarttechnicus
+technicus voor vliegtuigstructuren
+luchtvaarttechnicus
+technicus luchtvaart
+technicus vliegtuigbouw
+technisch ingenieur ruimtevaart",,released,2024-01-16T13:15:18.262Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Technisch ingenieurs lucht- en ruimtevaart werken samen met ingenieurs lucht- en ruimtevaart om apparatuur die in lucht- en ruimtevaartuigen wordt gebruikt te bedienen, te onderhouden en te testen. Zij beoordelen blauwdrukken en instructies om testspecificaties en -procedures te bepalen. Zij gebruiken software om te verzekeren dat onderdelen van een ruimtevaartuig of vliegtuig goed functioneren. Zij registreren testprocedures en -resultaten en bevelen wijzigingen aan.",3115.1.1
+Occupation,http://data.europa.eu/esco/occupation/05ae3e87-36ad-428f-a086-8a2ed458db3b,8172,operator tafelzaagmachine,"bediener tafelzaagmachine
+bediener zaagtafel
+operator zaagtafel
+bediener tafelcirkelzaag
+operator tafelcirkelzaag
+bediener bouwcirkelzaag
+operator bouwcirkelzaag
+bediener tafelzaag
+operator tafelzaag",,released,2024-01-26T15:38:08.645Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Operators tafelzaagmachine werken met industriële zagen die met een ronddraaiend cirkelvormig blad zagen. De zaag is ingebouwd in een tafel. De operator stelt de hoogte van de zaag in om controle te hebben over de diepte van de snee. Hij besteedt bijzondere aandacht aan de veiligheid, aangezien factoren zoals natuurlijke spanningen in het hout onvoorspelbare krachten kunnen opleveren.",8172.5.3
+Occupation,http://data.europa.eu/esco/occupation/05ebeb56-6ceb-488d-ba91-ed15088efc8e,3123,voorman brugbouw,,,released,2024-01-24T16:00:15.233Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations",Voormannen brugbouw monitoren de bouw van bruggen. Zij wijzen taken toe en nemen snelle beslissingen om problemen op te lossen.,3123.1.2
+Occupation,http://data.europa.eu/esco/occupation/05f321f8-055b-407d-bf19-e0ddabda56b7,7112,metselaar,"aannemer metselwerken
+aannemer metselwerk
+aanneemster metselwerken
+metselaarster
+aanneemster metselwerk",metser,released,2024-01-23T11:37:45.456Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Metselaars zetten bakstenen muren en structuren op door vakkundig de stenen in een vast patroon te leggen, waarbij gebruik wordt gemaakt van cement en dergelijke als bindmiddel. Vervolgens vullen zij de voegen met mortel of andere toepasselijke materialen.",7112.1
+Occupation,http://data.europa.eu/esco/occupation/05f6eaeb-b285-46bd-a44a-225bd429e329,7511,vleessnijder,"vlees snijders
+vleesafsnijder",,released,2024-01-25T14:30:59.504Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Vleessnijders snijden karkassen van dieren in grote en kleinere stukken voor verdere verwerking. Zij verwijderen beenderen van voorverwerkte dieren, hetzij handmatig, hetzij met behulp van machines.",7511.4
+Occupation,http://data.europa.eu/esco/occupation/0611f232-b30e-46c7-9c26-2d59b1448e79,2632,criminoloog,criminologe,,released,2024-01-26T12:41:01.075Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/8ae4b9f3-507e-4057-a145-2f96f0132613,
+http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Criminologen bestuderen omstandigheden die verband houden met mensen, zoals de sociale en psychologische aspecten die hen ertoe kunnen brengen criminele feiten te plegen. Zij observeren en analyseren verschillende factoren gaande van de gedragsomstandigheden tot de sociale achtergrond en omgeving van verdachten om organisaties te adviseren over de preventie van criminaliteit.",2632.4
+Occupation,http://data.europa.eu/esco/occupation/061f56c6-36eb-4aa7-b5ef-98b7a569da1c,3521,video-operator,"video-operator
+video-operatrice
+beeldoperatrice
+beeldoperator",,released,2023-08-08T12:44:35.879Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Video-operatoren controleren de (geprojecteerde) beelden van een performance op basis van het artistieke of creatieve concept, in interactie met de performers. Hun werk wordt beïnvloed door en beïnvloedt de resultaten van andere operatoren. Daarom werken de operatoren nauw samen met de ontwerpers, operatoren en performers. Video-operatoren doen de voorbereiding van mediafragmenten, zien toe op de opstelling, leiden de technische bemanning, programmeren de apparatuur en bedienen het videosysteem. Hun werk is gebaseerd op plannen, instructies en andere documentatie. 
+ ",3521.1.4
+Occupation,http://data.europa.eu/esco/occupation/062d666b-8b5f-4ff2-9047-113831eb3e9f,5223,"verkoopspecialist vis, schaal- en weekdieren","mosselman
+visboer
+oesterverkoopster
+oesterverkoper
+garnalenverkoopster
+visverkoopster
+vishandelaar
+mosselverkoopster
+mosselverkoper
+visverkoper
+garnalenverkoper
+mosselmeid
+vishandelaarster",,released,2016-12-22T11:51:46Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Deze verkoopspecialisten verkopen vis, schaal- en weekdieren in gespecialiseerde winkels. 
+ ",5223.7.16
+Occupation,http://data.europa.eu/esco/occupation/0633ec3f-91f1-4038-bc29-e0ec4cd7f1e9,1322,manager olie- en gaswinning,"directeur gasproductiebedrijf
+directrice gasproductiebedrijf
+afdelingsmanager olie- en gasproductie
+manager olie- en gasproductie
+werfleider aardolie en gas
+directrice olie- en gasproductie
+production manager
+directeur olie- en gasproductie
+directrice olie- en gaswinning
+directeur olie- en gaswinning
+afdelingsmanager olie- en gaswinning",,released,2024-01-26T15:05:38.779Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Managers in de olie- en gaswinning coördineren en implementeren schema’s en plannen voor de productie van olie en gas op de korte en middellange termijn, zoals boringen, winning en afvalbeheer. Zij sturen een of meer eenheden aan en houden toezicht op de uitvoering van de technische en menselijke middelen in het kader van de doelstellingen inzake omvang, kwaliteit en planning. Managers op het gebied van olie- en gaswinning ontwerpen productieplannen en -schema’s en zorgen ervoor dat deze worden gevolgd.",1322.1.2
+Occupation,http://data.europa.eu/esco/occupation/06351e17-67c4-44bc-adf7-64b73f92c3b5,3117,technicus metallurgie,"onderzoeker ertskunde
+mineraloge
+wetenschappelijk onderzoeker metallurgie
+onderzoekster ertskunde
+controletechnicus metallurgie
+wetenschappelijk onderzoekster metallurgie
+metallurg
+mineraloog
+metallurge
+laboratoriumtechnicus metallurgie",,released,2024-01-24T15:22:54.792Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Technici metallurgie bieden technische ondersteuning bij het onderzoeken en uitvoeren van experimenten op mineralen, metalen, legeringen, olie en gas. Zij dragen ook bij tot de verbetering van de winningsmethoden.",3117.3
+Occupation,http://data.europa.eu/esco/occupation/06461fc3-1274-40a1-9322-dfc2753f5eea,8151,operator spinnerij,"technicus textielspinnerij
+technica spinnerij
+textieltechnica
+technica textielspinnerij
+textieltechnicus
+supervisor spinnerij
+technicus spinnerij",,released,2023-10-30T15:13:45.112Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Technici spinnerij verrichten werkzaamheden die verband houden met het configureren van spinprocessen.,8151.3
+Occupation,http://data.europa.eu/esco/occupation/0663d464-f139-4554-ae87-97aa6c4dad77,7122,vloerenlegger verende vloerbedekking,"vloerenlegger (soepele bekleding)
+vloerenlegger (linoleum)
+vloerenlegster (soepele bekleding)
+vloerenlegster verende vloerbedekking
+vloerenlegster (kurk)
+vloerenlegger (kurk)
+vloerenlegster (vinyl)
+vloerenlegster (laminaat)
+vloerenlegster (verende vloerbedekking)
+vloerenlegger (vinyl)
+vloerenlegster (linoleum)
+vloerenlegger (laminaat)",,released,2024-01-23T11:39:05.772Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Vloerenleggers verende vloerbedekking plaatsen geprefabriceerde tegels of rollen vloerbekleding, zoals linoleum, vinyl, rubber of kurk, wat dient als vloerbekleding.",7122.3
+Occupation,http://data.europa.eu/esco/occupation/0663da10-e42c-41e8-992c-07d00ac97bea,3119,kwaliteitstechnicus textiel,"laboratoriumtechnicus testing
+kwaliteitsmanager textiel",,released,2023-11-13T11:13:03.659Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations",Kwaliteitstechnici textiel voeren fysische laboratoriumtests uit op textielmaterialen en -producten. Zij vergelijken textielmaterialen en -producten met normen en interpreteren de resultaten.,3119.16.6
+Occupation,http://data.europa.eu/esco/occupation/066a9d8f-3948-409c-a3cf-ed8ed37cfe22,7516,medewerker droogschuur,"medewerkster tabakdroogschuur
+tabakdroogschuurmedewerker
+medewerkers tabakdroogschuur",,released,2024-01-25T14:32:50.631Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Droogschuurmedewerkers helpen bij het mengen, rijpen en gisten van tabaksstrips en -stengels voor de productie van sigaren, pruimtabak en snuiftabak.",7516.1
+Occupation,http://data.europa.eu/esco/occupation/066fe11d-10e4-4fec-bd27-3e78797500b9,8122,emailleur,emailleerder,,released,2016-07-05T16:55:34Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Emailleurs verfraaien metalen zoals goud, zilver, koper, staal, gietijzer of platina door die te beschilderen. Het email dat zij gebruiken, bestaat uit gekleurd glaspoeder.",8122.8
+Occupation,http://data.europa.eu/esco/occupation/068370e0-9c27-4814-87d0-44fbb3140815,2423,recruiter,"personeelsadviseur werving en selectie
+rekruteerder
+headhunter
+consultant werving en selectie",head hunter,released,2024-01-16T14:18:49.499Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Recruiters leveren de geschikte kandidaten aan werkgevers op basis van het gevraagde specifieke functieprofiel. Zij nemen tests af van en voeren gesprekken met werkzoekenden, stellen een shortlist op van kandidaten die aan de werkgever zullen worden voorgesteld en zoeken geschikte banen voor kandidaten. Recruiters onderhouden relaties met werkgevers om hun diensten op langere termijn aan te bieden.",2423.6
+Occupation,http://data.europa.eu/esco/occupation/068c2787-58ff-468e-bbb6-c4e5dd6ee482,2120,raadgevend actuaris,"wiskundig medewerker verzekeringswiskunde
+actuaris levensverzekeringen
+actuaris
+actuarieel analist
+schade-actuaris
+actuarieel medewerkster
+actuarieel rekenaar
+actuarieel medewerker
+verzekeringswiskundige
+wiskundig rekenaar",,released,2023-12-01T16:22:47.262Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Raadgevende actuarissen analyseren, beheren en verstrekken richtsnoeren over de financiële gevolgen van risico’s. Zij kunnen werken op gebieden die verband houden met verzekeringen, pensioenen, investeringen, bankieren, gezondheidszorg enz. Raadgevende actuarissen hanteren technische en statistische modellen en theorieën om strategisch, commercieel en financieel advies te geven.",2120.1
+Occupation,http://data.europa.eu/esco/occupation/068df7d1-516f-4829-b339-294cb0cf6318,2166,lichtontwerper performance,"lichtontwerper
+ontwerper van lichtconcepten
+lichtontwerpster
+ontwerpster van lichtconcepten",,released,2024-01-17T09:58:40.935Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations","Lichtontwerpers performance ontwikkelen een concept voor het verlichtingsontwerp voor een performance en houden toezicht op de uitvoering ervan. Hun werk is gebaseerd op onderzoek en artistieke visie. Hun ontwerp wordt beïnvloed door en is van invloed op andere ontwerpen en moet in overeenstemming zijn met deze ontwerpen en de algemene artistieke visie. Daarom werken de ontwerpers nauw samen met artistiek directeuren, operatoren en het artistiek team. Tijdens de repetities en de uitvoering coachen zij de operatoren ten behoeve van een optimale timing en uitvoering. De lichtontwerpers performance ontwikkelen de lichtpercelen, de cue-sheets en andere documentatie ter ondersteuning van de operatoren en het productieteam. Zij werken soms ook als zelfstandige artiesten en creëren lichtkunst buiten het kader van een performance.
+	",2166.11
+Occupation,http://data.europa.eu/esco/occupation/06ac0f53-431e-4bc6-acb8-2f5da041b5d3,2653,dansrepetitor,"repetitor ballet
+balletrepetitor
+balletmeester",,released,2024-01-26T15:57:32.989Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Dansrepetitoren helpen dirigenten en choreografen bij het dirigeren van repetities en het begeleiden van de artiesten tijdens het repetitieproces. Ongeacht hun aard en omvang zijn de handelingen van een dansrepetitor vanuit ethisch en praktisch oogpunt gebaseerd op een verbintenis om de integriteit van het werk te respecteren.,2653.1.2
+Occupation,http://data.europa.eu/esco/occupation/06bd6285-13ed-4ea7-90cc-e9638a0600a9,7412,accumonteur,"accumonteuse
+monteur autobatterijen",,released,2023-11-30T11:04:14.138Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Accumonteurs monteren, installeren, inspecteren, onderhouden en repareren accu’s in motorvoertuigen. Zij gebruiken elektrische testapparatuur om de goede werking na de installatie te bevestigen. Zij evalueren accu’s om de aard van de stroomproblemen te bepalen. Zij bereiden ook oude accu’s voor om ze te kunnen weggooien.",7412.1
+Occupation,http://data.europa.eu/esco/occupation/06f89f2c-c6e9-40c5-a4a5-0e34d5fbc184,2163,ontwerper schoenen,"ontwerpster schoenen
+schoenendesigner
+schoenontwerpster
+schoendesigner
+schoenontwerper
+schoenenontwerpster
+designer van schoenen
+schoenenontwerper
+ontwerper/modelleur schoenen",,released,2024-01-25T15:07:15.295Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations","Ontwerpers van schoenen voeren analyses uit van modetrends, prognoses en marktonderzoek, creëren schoeiselconcepten en bouwen collectielijnen op door mood- of conceptboards, kleurenpaletten, materialen, tekeningen en schetsen, enz. te maken. Zij voeren het stalenproces uit, maken prototypes van schoenen en stalen voor presentaties die zijn gericht op de promotie van de schoeiselconcepten en collecties. Zij bepalen het scala aan materialen en componenten, stellen de ontwerpspecificaties vast door samen te werken met het technische team en evalueren de schoeiselmonsters, -prototypes en -collecties.",2163.1.3.2
+Occupation,http://data.europa.eu/esco/occupation/070e94a8-a933-4557-9b95-fefe7f4f1763,1120,manager arbeidsbureau,manager arbeidsbemiddelingsbureau,,released,2024-01-16T14:57:14.599Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/occupations,
+http://data.europa.eu/esco/concept-scheme/member-occupations",Managers arbeidsbureau houden toezicht op de activiteiten van een arbeidsbureau. Zij houden toezicht op het personeel dat mensen helpt bij het vinden van een baan of bieden loopbaanbegeleiding.,1120.5
+Occupation,http://data.europa.eu/esco/occupation/072279cf-ed39-47e7-af23-ee6df571eb24,7532,gradeerder,"patronenmaker-gradeerder
+gradeerster
+gradeerder
+patronenmaakster-gradeerster
+gradeerster kleding
+gradeerder kleding",gradeur,released,2024-02-23T08:33:19.92Z,http://data.europa.eu/esco/regulated-professions/unregulated,,,"http://data.europa.eu/esco/concept-scheme/member-occupations,
+http://data.europa.eu/esco/concept-scheme/occupations",Gradeerders produceren patronen in verschillende maten (d.w.z. scaled-up en scaled-down) om dezelfde kleding in verschillende grootten te reproduceren. Zij ontwerpen patronen met de hand of met behulp van software op basis van de maattabellen.,7532.3
